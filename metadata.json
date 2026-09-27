@@ -1,0 +1,6 @@
+{
+  "name": "Ranked Arena - Simulador de Rangos",
+  "description": "Simulador de ranked móvil 3v3 con rangos competitivos, matchmaking dinámico, 100 bots con personalidades, torneos y modo admin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
